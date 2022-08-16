@@ -1,2 +1,2 @@
-Git1
-Gir2
+Git1 is a distributed version contril system
+Gir2 is free.....
